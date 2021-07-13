@@ -1,0 +1,12 @@
+#Authentication
+tenancy_ocid	= 	""
+user_ocid	=	""
+fingerprint	=	""
+private_key_path=	""
+
+region		=	""
+compartment_ocid=	""
+ssh_public_key	=	"~/.ssh/id_rsa.pub"
+
+
+availability_domain=	"0"
